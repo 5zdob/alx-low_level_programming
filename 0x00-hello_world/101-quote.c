@@ -4,6 +4,7 @@
  * description - Write a C program that prints exactly
  *  - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
  *
+ * Return:  return 1
  */
 int main(void)
 {
